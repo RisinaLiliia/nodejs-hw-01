@@ -1,6 +1,6 @@
 # Homework: CLI Contact Management Application
 
-This project is a homework assignment from the **Node.js course**.
+This project is a homework assignment from the **Node.js course**.  
 The task was to create a simple file management application using Node.js, which allows adding, deleting, and manipulating contacts stored in a JSON file via command-line interface.
 
 ## 🚀 Features
@@ -18,12 +18,14 @@ The task was to create a simple file management application using Node.js, which
 - @faker-js/faker (for generating random contacts)
 - fs/promises (for file operations)
 
-  🖥️ Scripts
-The package.json file contains pre-configured scripts to perform the main tasks:
+## 🖥️ Scripts
 
-✅   Generate random contacts: npm run generate  
-✅   Add a single contact: npm run add-one
-✅   Get all contacts: npm run get-all
-✅   Count the number of contacts: npm run count
-✅   Remove the last contact: npm run remove-last
-✅   Remove all contacts: npm run remove-all
+The `package.json` file contains pre-configured scripts to perform the main tasks:
+
+✅   **Generate random contacts:** `npm run generate`  
+✅   **Add a single contact:** `npm run add-one`  
+✅   **Get all contacts:** `npm run get-all`  
+✅   **Count the number of contacts:** `npm run count`  
+✅   **Remove the last contact:** `npm run remove-last`  
+✅   **Remove all contacts:** `npm run remove-all`
+
